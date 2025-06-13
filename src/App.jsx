@@ -22,9 +22,7 @@ export default function App() {
           descricao= "O Onix é um modelo de carro produzido pela Chevrolet e muito popular no Brasil, especialmente em sua versão hatchback e sedan. O Onix geralmente é oferecido com motores 1.0 aspirado e turbo com coreia banhada a oleo, econômicos e de bom desempenho para um carro de entrada, sendo muito bem aceito por quem busca um carro que combine baixo consumo de combustível e bom desempenho."
         />
         <div className="linkonex">
-        <p>Link:</p> 
-        <a href={"https://www.chevrolet.com.br/carros/novo-onix"} target="_blank" rel="noopener noreferrer">
-        <button>Onex</button> </a>
+        <p>Link:<a href={"https://www.chevrolet.com.br/carros/novo-onix"} target="_blank" rel="noopener noreferrer"><button>Onix</button> </a></p>
         </div>
 
 
@@ -36,9 +34,7 @@ export default function App() {
         />
         <div className="linkpo">
 
-        <p>Link:</p>
-         <a href={"https://www.vw.com.br/pt/carros/polo.html"} target="_blank" rel="noopener noreferrer">
-         <button>Polo</button></a>
+        <p>Link:<a href={"https://www.vw.com.br/pt/carros/polo.html"} target="_blank" rel="noopener noreferrer"><button>Polo</button></a></p>
          </div>
        
         <Carro
@@ -49,9 +45,7 @@ export default function App() {
           descricao="A Fiat Strada é uma picape compacta muito popular no Brasil, conhecida pela sua robustez e versatilidade, ideal para quem precisa de um veículo para trabalho e lazer. Lançada em 1998, a Strada oferece opções de motores flex, geralmente com motorização 1.3 e 1.4, que garantem bom desempenho tanto para uso urbano quanto para viagens e trabalho pesado."
         />
         <div className="linkst">
-        <p>Link:</p>
-         <a href={"https://strada.fiat.com.br/"} target="_blank" rel="noopener noreferrer">
-         <button>strada</button> </a>
+        <p>Link:<a href={"https://strada.fiat.com.br/"} target="_blank" rel="noopener noreferrer"><button>Strada</button> </a></p>
          </div>
       </div>
 
