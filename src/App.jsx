@@ -16,7 +16,7 @@ export default function App() {
       <div className="container">
         <Carro
           nome="Onix"
-          imagem="/public/onix.png"
+          imagem="./onix.png"
           site="https://www.chevrolet.com.br/carros/novo-onix"
           
           descricao= "O Onix é um modelo de carro produzido pela Chevrolet e muito popular no Brasil, especialmente em sua versão hatchback e sedan. O Onix geralmente é oferecido com motores 1.0 aspirado e turbo com coreia banhada a oleo, econômicos e de bom desempenho para um carro de entrada, sendo muito bem aceito por quem busca um carro que combine baixo consumo de combustível e bom desempenho."
