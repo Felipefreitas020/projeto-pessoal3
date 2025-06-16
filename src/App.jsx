@@ -28,7 +28,7 @@ export default function App() {
 
         <Carro
           nome="Polo"
-          imagem="/public/volkswagen-polo.png"
+          imagem="./volkswagen-polo.png"
            
           descricao="O Volkswagen Polo é um carro compacto da Volkswagen, que tem se destacado no Brasil desde seu lançamento em 2017. Ele é conhecido pelo bom desempenho, qualidade de construção e um design mais sofisticado em comparação com outros modelos da mesma categoria. O modelo conta com opções de motores 1.0 e 1.6, sendo eficiente no consumo de combustível e com bom desempenho para um carro compacto."
         />
@@ -39,7 +39,7 @@ export default function App() {
        
         <Carro
           nome="strada"
-          imagem="/public/strada.png"
+          imagem="./strada.png"
            
             site="https://strada.fiat.com.br/"
           descricao="A Fiat Strada é uma picape compacta muito popular no Brasil, conhecida pela sua robustez e versatilidade, ideal para quem precisa de um veículo para trabalho e lazer. Lançada em 1998, a Strada oferece opções de motores flex, geralmente com motorização 1.3 e 1.4, que garantem bom desempenho tanto para uso urbano quanto para viagens e trabalho pesado."
